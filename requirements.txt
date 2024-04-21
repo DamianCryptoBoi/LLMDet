@@ -4,6 +4,6 @@ nltk
 lightgbm
 json
 numpy
-sklearn
+scikit-learn
 tqdm
 argparse
